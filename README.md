@@ -16,7 +16,7 @@ A minimal, clean CLI library for Go. Build command-line tools with simple, reada
 ## Installation
 
 ```bash
-go get github.com/Bearcry55/clic@main
+go get github.com/Bearcry55/clic
 ```
 
 ## Quick Start
